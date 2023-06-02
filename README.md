@@ -1,4 +1,4 @@
 # main-updater
-Repo used to maintain 90 day commits
+Free Parallels Script inside
 
-> dont blame pls 😭
+download folder and read read me
